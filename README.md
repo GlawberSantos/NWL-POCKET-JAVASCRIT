@@ -17,9 +17,6 @@ JavaScript (Vanilla)
 
 LocalStorage
 
-📸 Preview
-(Adicione aqui uma imagem ou gif da aplicação rodando, exemplo:)
-
 🛠️ Como Usar
 Clone o repositório e abra o index.html no navegador:
 
